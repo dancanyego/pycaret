@@ -1356,3 +1356,87 @@ THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
 2023-07-19 16:52:31,490:INFO:_display_container: 3
 2023-07-19 16:52:31,491:INFO:LGBMRegressor(random_state=438)
 2023-07-19 16:52:31,492:INFO:tune_model() successfully completed......................................
+2023-07-19 17:13:53,299:INFO:Initializing finalize_model()
+2023-07-19 17:13:53,300:INFO:finalize_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001AF3A41E7C0>, estimator=LGBMRegressor(random_state=438), fit_kwargs=None, groups=None, model_only=False, experiment_custom_tags=None)
+2023-07-19 17:13:53,301:INFO:Finalizing LGBMRegressor(random_state=438)
+2023-07-19 17:13:53,318:INFO:Initializing create_model()
+2023-07-19 17:13:53,318:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001AF3A41E7C0>, estimator=LGBMRegressor(random_state=438), fold=None, round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=False, metrics=None, display=None, model_only=False, return_train_score=False, kwargs={})
+2023-07-19 17:13:53,318:INFO:Checking exceptions
+2023-07-19 17:13:53,324:INFO:Importing libraries
+2023-07-19 17:13:53,324:INFO:Copying training dataset
+2023-07-19 17:13:53,325:INFO:Defining folds
+2023-07-19 17:13:53,326:INFO:Declaring metric variables
+2023-07-19 17:13:53,326:INFO:Importing untrained model
+2023-07-19 17:13:53,327:INFO:Declaring custom model
+2023-07-19 17:13:53,329:INFO:Light Gradient Boosting Machine Imported successfully
+2023-07-19 17:13:53,334:INFO:Cross validation set to False
+2023-07-19 17:13:53,334:INFO:Fitting Model
+2023-07-19 17:13:54,308:INFO:Pipeline(memory=FastMemory(location=C:\Users\danca\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['temp', 'rain_1h', 'snow_1h',
+                                             'clouds_all', 'Rush Hour'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['holiday', 'weather_main'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['holiday', 'weather_main'],
+                                    transformer=OneHotEncoder(cols=['holiday',
+                                                                    'weather_main'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', LGBMRegressor(random_state=438))])
+2023-07-19 17:13:54,308:INFO:create_model() successfully completed......................................
+2023-07-19 17:13:54,512:INFO:_master_model_container: 20
+2023-07-19 17:13:54,512:INFO:_display_container: 3
+2023-07-19 17:13:54,533:INFO:Pipeline(memory=FastMemory(location=C:\Users\danca\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['temp', 'rain_1h', 'snow_1h',
+                                             'clouds_all', 'Rush Hour'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['holiday', 'weather_main'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['holiday', 'weather_main'],
+                                    transformer=OneHotEncoder(cols=['holiday',
+                                                                    'weather_main'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', LGBMRegressor(random_state=438))])
+2023-07-19 17:13:54,533:INFO:finalize_model() successfully completed......................................
+2023-07-19 23:41:00,502:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-19 23:41:00,502:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-19 23:41:00,502:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-19 23:41:00,502:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-19 23:45:21,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-19 23:45:21,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-19 23:45:21,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-19 23:45:21,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-20 00:05:06,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-20 00:05:06,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-20 00:05:06,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-20 00:05:06,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-20 00:07:12,861:INFO:Soft dependency imported: pandas_profiling: 4.1.2
+2023-07-20 00:07:16,349:WARNING:D:\anaconda\lib\site-packages\numba\core\decorators.py:262: NumbaDeprecationWarning: [1mnumba.generated_jit is deprecated. Please see the documentation at: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-generated-jit for more information and advice on a suitable replacement.[0m
+  warnings.warn(msg, NumbaDeprecationWarning)
+
+2023-07-20 00:07:16,437:WARNING:D:\anaconda\lib\site-packages\visions\backends\shared\nan_handling.py:51: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  def hasna(x: np.ndarray) -> bool:
+
