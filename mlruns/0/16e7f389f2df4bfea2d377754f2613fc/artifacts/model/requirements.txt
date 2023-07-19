@@ -1,0 +1,11 @@
+mlflow==2.5.0
+cloudpickle==2.2.1
+enum34==1.1.10
+importlib-metadata==6.0.0
+lz4==4.3.2
+numpy==1.21.5
+pathlib==1.0.1
+psutil==5.9.0
+scikit-learn==1.2.2
+scipy==1.10.1
+typing==3.7.4.3
