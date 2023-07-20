@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/0/16e7f389f2df4bfea2d377754f2613fc/artifacts
+end_time: 1689805702272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16e7f389f2df4bfea2d377754f2613fc
+run_name: merciful-toad-826
+run_uuid: 16e7f389f2df4bfea2d377754f2613fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689805693970
+status: 3
+tags: []
+user_id: danca
