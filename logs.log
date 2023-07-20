@@ -5018,3 +5018,23 @@ THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
 2023-07-20 13:46:53,586:INFO:_display_container: 2
 2023-07-20 13:46:53,588:INFO:LGBMRegressor(random_state=6808)
 2023-07-20 13:46:53,589:INFO:compare_models() successfully completed......................................
+2023-07-20 13:49:53,223:INFO:Initializing plot_model()
+2023-07-20 13:49:53,223:INFO:plot_model(plot=residuals, fold=None, verbose=True, display=None, display_format=None, estimator=LGBMRegressor(random_state=6808), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D1E1A95130>, system=True)
+2023-07-20 13:49:53,224:INFO:Checking exceptions
+2023-07-20 13:49:53,234:INFO:Preloading libraries
+2023-07-20 13:49:53,260:INFO:Copying training dataset
+2023-07-20 13:49:53,260:INFO:Plot type: residuals
+2023-07-20 13:49:53,690:INFO:Fitting Model
+2023-07-20 13:49:53,866:INFO:Scoring test/hold-out set
+2023-07-20 13:49:55,089:INFO:Visual Rendered Successfully
+2023-07-20 13:49:55,259:INFO:plot_model() successfully completed......................................
+2023-07-20 13:50:32,242:INFO:Initializing plot_model()
+2023-07-20 13:50:32,242:INFO:plot_model(plot=residuals, fold=None, verbose=True, display=None, display_format=None, estimator=LGBMRegressor(random_state=6808), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D1E1A95130>, system=True)
+2023-07-20 13:50:32,243:INFO:Checking exceptions
+2023-07-20 13:50:32,254:INFO:Preloading libraries
+2023-07-20 13:50:32,302:INFO:Copying training dataset
+2023-07-20 13:50:32,303:INFO:Plot type: residuals
+2023-07-20 13:50:32,876:INFO:Fitting Model
+2023-07-20 13:50:33,023:INFO:Scoring test/hold-out set
+2023-07-20 13:50:34,044:INFO:Visual Rendered Successfully
+2023-07-20 13:50:34,169:INFO:plot_model() successfully completed......................................
