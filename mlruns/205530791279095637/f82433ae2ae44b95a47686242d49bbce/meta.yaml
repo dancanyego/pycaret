@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/205530791279095637/f82433ae2ae44b95a47686242d49bbce/artifacts
+end_time: 1689850005697
+entry_point_name: ''
+experiment_id: '205530791279095637'
+lifecycle_stage: active
+run_id: f82433ae2ae44b95a47686242d49bbce
+run_name: Lasso Regression
+run_uuid: f82433ae2ae44b95a47686242d49bbce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689850004867
+status: 3
+tags: []
+user_id: danca
