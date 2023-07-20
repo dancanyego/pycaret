@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/0/8633a34ac2cd4df2b5a504d8436c1076/artifacts
+end_time: 1689847699915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8633a34ac2cd4df2b5a504d8436c1076
+run_name: nebulous-croc-701
+run_uuid: 8633a34ac2cd4df2b5a504d8436c1076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689847685526
+status: 3
+tags: []
+user_id: danca
