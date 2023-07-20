@@ -5038,3 +5038,12 @@ THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
 2023-07-20 13:50:33,023:INFO:Scoring test/hold-out set
 2023-07-20 13:50:34,044:INFO:Visual Rendered Successfully
 2023-07-20 13:50:34,169:INFO:plot_model() successfully completed......................................
+2023-07-20 13:51:54,496:INFO:Initializing plot_model()
+2023-07-20 13:51:54,496:INFO:plot_model(plot=feature, fold=None, verbose=True, display=None, display_format=None, estimator=LGBMRegressor(random_state=6808), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D1E1A95130>, system=True)
+2023-07-20 13:51:54,497:INFO:Checking exceptions
+2023-07-20 13:51:54,506:INFO:Preloading libraries
+2023-07-20 13:51:54,533:INFO:Copying training dataset
+2023-07-20 13:51:54,533:INFO:Plot type: feature
+2023-07-20 13:51:54,534:WARNING:No coef_ found. Trying feature_importances_
+2023-07-20 13:51:54,833:INFO:Visual Rendered Successfully
+2023-07-20 13:51:54,974:INFO:plot_model() successfully completed......................................
