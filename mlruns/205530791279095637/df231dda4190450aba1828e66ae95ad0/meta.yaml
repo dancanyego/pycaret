@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/205530791279095637/df231dda4190450aba1828e66ae95ad0/artifacts
+end_time: 1689849997950
+entry_point_name: ''
+experiment_id: '205530791279095637'
+lifecycle_stage: active
+run_id: df231dda4190450aba1828e66ae95ad0
+run_name: Light Gradient Boosting Machine
+run_uuid: df231dda4190450aba1828e66ae95ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689849996656
+status: 3
+tags: []
+user_id: danca

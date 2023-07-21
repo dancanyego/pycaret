@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/205530791279095637/51d0facc43fc464ab2b3ac477e4eefe9/artifacts
+end_time: 1689850003050
+entry_point_name: ''
+experiment_id: '205530791279095637'
+lifecycle_stage: active
+run_id: 51d0facc43fc464ab2b3ac477e4eefe9
+run_name: K Neighbors Regressor
+run_uuid: 51d0facc43fc464ab2b3ac477e4eefe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689850002385
+status: 3
+tags: []
+user_id: danca

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/205530791279095637/346d350ec44a433eb21be9ffc59e9439/artifacts
+end_time: 1689850003863
+entry_point_name: ''
+experiment_id: '205530791279095637'
+lifecycle_stage: active
+run_id: 346d350ec44a433eb21be9ffc59e9439
+run_name: Orthogonal Matching Pursuit
+run_uuid: 346d350ec44a433eb21be9ffc59e9439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689850003219
+status: 3
+tags: []
+user_id: danca

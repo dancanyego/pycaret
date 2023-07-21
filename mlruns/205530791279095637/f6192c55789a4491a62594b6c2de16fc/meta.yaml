@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/205530791279095637/f6192c55789a4491a62594b6c2de16fc/artifacts
+end_time: 1689850006909
+entry_point_name: ''
+experiment_id: '205530791279095637'
+lifecycle_stage: active
+run_id: f6192c55789a4491a62594b6c2de16fc
+run_name: Elastic Net
+run_uuid: f6192c55789a4491a62594b6c2de16fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689850005918
+status: 3
+tags: []
+user_id: danca

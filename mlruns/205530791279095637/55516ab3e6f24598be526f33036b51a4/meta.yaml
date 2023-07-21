@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/205530791279095637/55516ab3e6f24598be526f33036b51a4/artifacts
+end_time: 1689850002215
+entry_point_name: ''
+experiment_id: '205530791279095637'
+lifecycle_stage: active
+run_id: 55516ab3e6f24598be526f33036b51a4
+run_name: AdaBoost Regressor
+run_uuid: 55516ab3e6f24598be526f33036b51a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689850001553
+status: 3
+tags: []
+user_id: danca

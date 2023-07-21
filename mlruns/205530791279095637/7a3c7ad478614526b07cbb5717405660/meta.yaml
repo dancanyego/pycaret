@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danca/Music/mlops/sample/mlruns/205530791279095637/7a3c7ad478614526b07cbb5717405660/artifacts
+end_time: 1689849998845
+entry_point_name: ''
+experiment_id: '205530791279095637'
+lifecycle_stage: active
+run_id: 7a3c7ad478614526b07cbb5717405660
+run_name: Gradient Boosting Regressor
+run_uuid: 7a3c7ad478614526b07cbb5717405660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689849998115
+status: 3
+tags: []
+user_id: danca
